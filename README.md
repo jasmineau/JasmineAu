@@ -3,17 +3,19 @@
 ## About me
 
 
-🌱 I’m currently learning and practicing my data analytics skills every day
+#### 🌱 Self Taught Data Analyst
 
 
 
-📚 Certificate :  
-* Coursera - Google Data Analyst Professional,  
+
+#### 📚 Certificate :  
+* Coursera - Google Data Analyst Professional  
 * Udemy - Python for Data Science and Machine Learning
 
 
 
-📚 Skills: 
+
+#### 📚 Skills: 
 * Python
 * R
 * SQL
@@ -22,9 +24,10 @@
 
 
 
-💪 My favourite quote: 
 
-“Many of life’s failures are people who did not realize how close they were to success when they gave up.”
+#### 💪 My favourite quote: 
+
+* “Many of life’s failures are people who did not realize how close they were to success when they gave up.”
  -Thomas Edison
 
 
