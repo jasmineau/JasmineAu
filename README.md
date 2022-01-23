@@ -16,7 +16,7 @@
 
 
 #### 📚 Skills: 
-* Python
+* Python (Pandas, Numpy, Seaborn)
 * R
 * SQL
 * Tableau
