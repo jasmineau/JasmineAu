@@ -19,7 +19,7 @@
 * Python (Pandas, Numpy, Seaborn)
 * R
 * SQL
-* Tableau
+* [Tableau](https://public.tableau.com/app/profile/jasmineau)
 
 
 
