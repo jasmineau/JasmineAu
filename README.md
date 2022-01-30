@@ -32,5 +32,5 @@
 
 
 ***
-## Click [here](https://github.com/jasmineau/Portfolio) for my portfolio projects
+### Click [here](https://github.com/jasmineau/Portfolio) for my portfolio projects
 ***
