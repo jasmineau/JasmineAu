@@ -16,7 +16,7 @@
 
 
 #### 📚 Skills: 
-* Python (Pandas, Numpy, Seaborn, sklearn)
+* Python (Pandas, Numpy, Seaborn, SciKit Learn)
 * R
 * SQL
 * SAS
