@@ -16,9 +16,10 @@
 
 
 #### 📚 Skills: 
-* Python (Pandas, Numpy, Seaborn)
+* Python (Pandas, Numpy, Seaborn, sklearn)
 * R
 * SQL
+* SAS
 * [Tableau](https://public.tableau.com/app/profile/jasmineau)
 
 
