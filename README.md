@@ -10,7 +10,7 @@
 
 #### 🎓 Certificate :  
 * Coursera - Google Data Analyst Professional  
-* Udemy - Python for Data Science and Machine Learning
+* Udemy - Python for Data Science and Machine Learning Bootcamp
 
 
 
